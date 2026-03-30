@@ -1,5 +1,5 @@
 # TEST DATA INGESTION SERVICE - CLONE OF ruby-advisory-db (TESTING IMPLICIT BLACKDUCK FINDINGS POPULATION INTO SECURITY INSIGHTS DASHBOARD)
-
+ 
 # Ruby Advisory Database
 
 The Ruby Advisory Database is a community effort to compile all security
