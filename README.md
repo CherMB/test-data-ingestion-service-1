@@ -225,7 +225,7 @@ Please see [CONTRIBUTORS.md].
 
 This database also includes data from the [Open Sourced Vulnerability Database][OSVDB]
 developed by the Open Security Foundation (OSF) and its contributors.
-
+ 
 [rubygems.org]: https://rubygems.org/
 [bundler-audit]: https://github.com/rubysec/bundler-audit
 [CVE]: https://cve.mitre.org/
