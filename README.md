@@ -54,7 +54,7 @@ Each advisory file contains the advisory information in [YAML] format.
 Here are some example advisories:
 
 ### `gems/actionpack/CVE-2023-22795.yml`
-
+ 
 ```yaml
 ---
 gem: actionpack
