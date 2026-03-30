@@ -19,7 +19,7 @@ The database is a list of directories that match the names of Ruby libraries on
 [rubygems.org]. Within each directory are one or more advisory files
 for the Ruby library. These advisory files are named using
 the advisories' [CVE] identifier number.
-
+  
 ```
 gems/:
   actionpack/:
